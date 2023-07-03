@@ -38,7 +38,6 @@ function ListingDetailPage (){
                     return <div key={item1.id} className="col-md-12">
                         <div className="card shadow ">
                             <div className="card-body shadow">
-                                {/* <h5 className='card-title text-center h2'>Id : {item1.id}</h5> */}
                                 <img src={item1.image} className="img-fluid" alt="kuh" />
                                 <h6 className='mt-1'>{item1.address}</h6>
                                 <h3 className="text-center">{item1.name}</h3>
