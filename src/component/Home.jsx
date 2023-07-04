@@ -1,6 +1,5 @@
 import React from "react";
 import web from '../img1.jpeg'
-// import { NavLink } from "react-router-dom";
 import { Common } from "./Common";
 const Home=()=>{
     return (
@@ -15,3 +14,5 @@ const Home=()=>{
     )
 };
 export {Home}
+
+//yhid id my vommrny
